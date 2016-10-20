@@ -8,7 +8,7 @@ Here is how to install and use it:
 * Install the following python libs:
 	* pip install --upgrade google-api-python-client
 	* pip install httplib2
-	* pip install trolly  (tested with trello-0.9.1)
+	* pip install trolly  (tested with Trolly-0.2.2 )
 
 * To access your Google Task with python: 
 	* create a new project in https://console.developers.google.com
@@ -21,7 +21,7 @@ Here is how to install and use it:
 	* Got to https://trello.com/app-key and generate a trello API KEY and change it below (TRELLO_API_KEY)
 	* On the same page, generate a token and change it below (TRELLO_TOKEN)
 
-* Execute the following script (python googletasks2trello.py) multiple times and follow the printed instructions
+* Execute the following script (python googletasks2trello.py) multiple times and follow the printed instructions (it will ask you to modify it with different IDs)
 
 Enjoy!
 

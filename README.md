@@ -1,5 +1,6 @@
 # GoogleTasks2Trello
-This script aims to transfer your Google Calendar Tasks into Trello.
+This script allows you to export your Google Calendar Tasks into a Trello List.
+
 I spend to much time trying and failing different softs that I decided to write this simple script (please be kind: this is one of my first scripts in Python!)
 
 Here is how to install and use it:
